@@ -1,0 +1,40 @@
+{
+
+    "About": {
+        "paragraph": "We are working together to elevate Africa's e-Health by educating Africans and offering e-Health services from some of the best doctors in Africa.",
+        "Why": [
+            "Professional",
+            "Licensed",
+            "Free services",
+            "One call away"
+        ],
+        "Why2": [
+            "Health at your comfort",
+            "Accessible",
+            "Confidential",
+            "MOH Approved"
+        ]
+    },
+
+    "How": [{
+            "icon": "fa fa-notes-medical",
+            "title": "Aceess BOH site",
+            "text": "Using your device browse to the Bank of Health website."
+        },
+        {
+            "icon": "fa fa-book",
+            "title": "Browse to services",
+            "text": "Find the appropriate service for your illness or needed advise."
+        },
+        {
+            "icon": "fa fa-address-book",
+            "title": "Contact a doctor",
+            "text": "Found the appropriate doctor contacts and contact them."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Consultation",
+            "text": "Wait for the scheduled time, the doctor should reach out to you."
+        }
+    ]
+}
